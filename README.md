@@ -2,23 +2,25 @@
 
 ### 👋 Hi, I'm Piyush Kumar
 
-🎓 MCA Student | 💻 C++ & DSA Enthusiast | 🛡️ Cybersecurity Learner | ⚡ Web Developer (React.js)
+🎓 MCA Student | 🛡️ Cybersecurity & SOC Analyst in Making | 🌐 Networking & Linux Enthusiast
 
-🔭 I’m currently working on mastering:
-- Data Structures & Algorithms in C++
-- Full-Stack Web Development (MERN Stack)
-- Cybersecurity tools like Burp Suite, Postman & TryHackMe labs
+🔭 Currently focused on:
+- Security Operations (SOC), SIEM, Log Analysis & Incident Response
+- Network Security, Firewalls, VPN, TCP/IP, Packet Analysis
+- Linux system administration & security hardening
+- Hands-on labs on TryHackMe, HackTheBox & Blue Team practices
+- Scripting & automation for security tasks (Python / Bash / PowerShell)
 
-📂 Most of my projects are focused on:
-- Real-world DSA problems and solutions
-- React-based web apps
-- Ethical hacking and automation scripts on Windows OS
+📂 My GitHub will mainly include:
+- Security automation & log analysis scripts
+- SIEM + Threat Detection practice labs
+- Network & system monitoring utilities
+- Cybersecurity notes, tools and case studies
 
-🚀 I'm building a strong foundation to crack top tech roles & cybersecurity internships.
+🚀 Goal: Build strong skills for roles like SOC Analyst, Cybersecurity Analyst & Blue Team Operations.
 
-📫 Let's connect:  
-💼 [LinkedIn](https://www.linkedin.com/in/piyush-raj-sde/)  
-📧 krpiyush1308@gmail.com  
+📫 Connect with me:
+💼 LinkedIn: https://www.linkedin.com/in/piyush-raj-sde/  
+📧 Email: krpiyush1308@gmail.com  
 
-
-📌 GitHub is where I share what I learn, build, and break (ethically).
+📌 GitHub is where I document my journey in cybersecurity, networking, and defensive security operations.
